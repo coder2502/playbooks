@@ -1,6 +1,6 @@
 ---
 
-- hosts: AppServers
+- hosts: webservers
   become: yes
 
   tasks:
